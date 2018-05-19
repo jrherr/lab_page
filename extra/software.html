@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<!-- saved from url=(0043)http://sco.h-its.org/exelixis/software.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>The Exelixis Lab</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="RAxML, phylogenetics, evolution, EPA, Exelixis">
+    <meta name="author" content="Jiajie Zhang">
+    <!-- Le styles -->
+    <link href="http://sco.h-its.org/exelixis/resource/css/bootstrap.css" rel="stylesheet">
+    
+    <!-- open all external links in new tab -->
+    <script language="JavaScript">
+	window.onload = function() {
+	    jQuery("a[href^='https://']").attr("target","_blank");
+	    jQuery("a[href^='http://']").attr("target","_blank");
+	};
+    </script>
+    
+    <link href="http://sco.h-its.org/exelixis/resource/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="http://sco.h-its.org/exelixis/resource/css/exelixis.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="../resource/js/html5shiv.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <!--<div class="container-fluid"> -->
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <!-- <a class="brand" href="#">The Exelixis Lab</a> -->
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a class="brand" href="http://sco.h-its.org/exelixis/index.html">The Exelixis Lab</a></li>
+              <li><a href="http://sco.h-its.org/exelixis/news.html"><i class="icon-bell icon-white"></i>News</a></li>
+              <li><a href="http://sco.h-its.org/exelixis/research.html"><i class="icon-star icon-white"></i>Research</a></li>
+              <li><a href="http://sco.h-its.org/exelixis/publications.html"><i class="icon-file icon-white"></i>Publications</a></li>
+              <li class="active"><a href="./software_files/software.html"><i class="icon-th icon-white"></i>Software</a></li>
+              <li><a href="http://sco.h-its.org/exelixis/teaching.html"><i class="icon-volume-up icon-white"></i>Teaching</a></li>
+              <li><a href="http://sco.h-its.org/exelixis/talks.html"><i class="icon-globe icon-white"></i>Talks</a></li>
+              <li><a href="http://sco.h-its.org/exelixis/outreach.html"><i class="icon-film icon-white"></i>Outreach</a></li>
+              <li><a href="http://sco.h-its.org/exelixis/people.html"><i class="icon-user icon-white"></i>People</a></li>
+              <li><a href="http://sco.h-its.org/exelixis/jobs.html"><i class="icon-briefcase icon-white"></i>Jobs</a></li>
+              <li><a href="http://sco.h-its.org/exelixis/contact.html"><i class="icon-envelope icon-white"></i>Contact Us</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+
+    <div class="headerj">
+          <h1 id="labname">
+            The Exelixis Lab
+          </h1>
+          <br>
+          <p id="labnameexp">
+              Enabling Research in Evolutionary Biology <br>
+              
+          </p>
+    </div>  
+
+
+    <!--<div class="container-fluid"> -->
+    <div class="container">
+      <div class="row-fluid toptop">  
+        <div class="span12"> <h3>Phylogenetic Inference</h3> </div>
+      </div>
+      <div class="row-fluid toptop">
+        <div class="span4 bd-2">
+            <a href="http://sco.h-its.org/exelixis/web/software/raxml/index.html">
+            <h4>RAxML</h4> </a>
+            Our standard tool for Maximum-likelihood based phylogenetic inference.           
+        </div>
+        
+        <div class="span4 bd-2">            
+            <a href="http://sco.h-its.org/exelixis/web/software/examl/index.html"><h4>ExaML</h4></a>
+            Exascale Maximum Likelihood (ExaML): Code for extremely large-scale 
+            phylogenetic inference on supercomputers using MPI. <br>
+            
+        </div>
+        
+        <div class="span4 bd-2">
+            <a href="http://www.libpll.org/" target="_blank">
+            <h4>Phylogenetic Likelihood Library</h4></a>
+            Phylogenetic Likelihood Library: 
+            A highly optimized and parallized library for rapid prototyping and development of 
+            likelihood based phylogenetic inference codes.                       
+        </div>
+      </div><!--/row-->
+      
+     
+      
+      
+
+      <div class="row-fluid toptop">
+
+        <div class="span4 bd-2">
+            <a href="http://sco.h-its.org/exelixis/web/software/put/index.html"> 
+            <h4>Perpetually updating trees</h4></a>
+            A pipeline that automatically updates reference trees using RAxML-Light when new sequences for the clade of interest appear 
+            on GenBank or are added by the user.            
+        </div>
+
+        <div class="span4 bd-2">   
+        <a href="http://sco.h-its.org/exelixis/web/software/raxml-light/index.html"> 
+            <h4>RAxML-Light</h4></a>
+            A strapped down checkpointable RAxML version for computing huge trees on supercomputers.
+            <b>Development of this code has stopped, please use ExaML instead!</b>
+        </div>
+        <div class="span4 bd-2">
+            <a href="http://sco.h-its.org/exelixis/web/software/parsimonator/index.html"> 
+            <h4>Parsimonator</h4></a>
+            A fast and simple open-source parsimony program for building phylogenies on DNA data.           
+        </div>
+      </div><!--/row-->
+
+      <div class="row-fluid toptop">             
+        <div class="span4 bd-2">
+            <a href="http://sco.h-its.org/exelixis/web/software/mrbayes/index.html"> 
+            <h4>Hybrid MrBayes</h4></a>
+            A hybrid MPI/OpenMP version of MrBayes v3.1.2.           
+        </div>
+
+        <div class="span4 bd-2">
+            <a href="http://sco.h-its.org/exelixis/web/software/exabayes/index.html"> 
+              <h4>ExaBayes</h4></a> 
+	    Parallelized Bayesian tree inference for large-scale datasets. 
+        </div>
+      </div><!--/row-->
+
+
+      <!-- <div class="row-fluid toptop">              -->
+
+
+     
+       <div class="row-fluid toptop">  
+         <div class="span12"> <h3>Phylogenetic Post-Analysis</h3> </div>
+      </div>
+       
+        <div class="row-fluid toptop">
+        <div class="span4 bd-2"> 
+            <a href="http://sco.h-its.org/exelixis/web/software/vtc/index.html">
+            <h4>Visual Tree Comparer</h4></a>
+            A simple graphical tree comparison tool that visualizes differences 
+            between up to four different trees by highlighting the branches 
+            (bipartitions/splits) that are not shared among those trees.            
+        </div>
+        <div class="span4 bd-2">
+            <a href="http://sco.h-its.org/exelixis/web/software/tvt/index.html"> 
+            <h4>Tree Visualization Tool (very old)</h4></a>
+            Old Tree visualization tool using treemaps and taxonomic information.            
+        </div>
+        <div class="span4 bd-2">
+            <a href="http://sco.h-its.org/exelixis/web/software/AxParafit/index.html"> 
+            <h4>AxParafit</h4></a>
+            Highly optimized versions of Pierre Legendre's Parafit and DistPCoA programs for 
+            statistical analysis of host-parasite coevolution.
+            
+        </div>
+
+      </div><!--/row-->
+
+       <div class="row-fluid toptop">
+        <div class="span4 bd-2"> 
+            <a href="http://sco.h-its.org/exelixis/web/software/roguenarok/roguenarok.html">
+            <h4>Rogue Taxon Identification</h4> </a>
+            A new, scalable algorithm for rogue taxon identification.	   
+        </div>       
+        <div class="span4 bd-2">
+            <a href="http://sco.h-its.org/exelixis/web/software/dppdiv/index.html"> 
+            <h4>Dppdiv</h4></a>
+             An optimized (using vector intrinsics) and parallelized version (using OpenMP)
+             of the DPPDIV (original code by Tracy Heath) code for estimating divergence times 
+             with a dirichilet process prior.            
+        </div>
+	 <div class="span4 bd-2">             
+            <h4>Phylogenetic Binning tool</h4> 
+            The code from the <a href="http://www.ingentaconnect.com/content/iapt/tax/2011/00000060/00000005/art00020" target="_blank">paper</a>: S. Berger, R. Lücking, A. Stamatakis on 
+"Morphology-based phylogenetic binning of the lichen genera Graphis and Allographa (Ascomycota: Graphidaceae) 
+  using molecular site weight calibration" is available for download <a href="http://sco.h-its.org/exelixis/php/countSourceBinning.php">here</a>.
+
+        </div>  
+
+      </div><!--/row-->
+
+      
+
+      <div class="row-fluid toptop">  
+        <div class="span12"> <h3>Next Generation Sequencing &amp; Sequence Analysis</h3> </div>
+      </div>
+
+      <div class="row-fluid toptop">
+        <div class="span4 bd-2">
+            <a href="http://sco.h-its.org/exelixis/web/software/pear/index.html"> 
+            <h4>PEAR</h4></a>
+            A fast, parallel, and accurate Illumina paired-end read merger.            
+        </div>
+        <div class="span4 bd-2">
+            <a href="http://www.inf.kcl.ac.uk/research/projects/gapmis/" target="_blank"> 
+            <h4>GapsMis</h4></a>
+             A tool for flexible pairwise sequence alignment with a variable, but bounded, number of gaps.            
+        </div>
+        <div class="span4 bd-2">
+            <a href="http://sco.h-its.org/exelixis/web/software/gapmis/index.php"> 
+            <h4>libgapmis</h4></a>
+            An ultrafast library for pairwise short-read alignment, based on GapMis, including accelerated SSE-based and GPU-based versions.           
+        </div>
+      </div><!--/row-->
+
+      <div class="row-fluid toptop">
+        <div class="span4 bd-2">
+            <a href="http://sco.h-its.org/exelixis/web/software/PTP/index.html">
+            <h4>PTP</h4></a>
+            A tool for delimiting species on phylogenies and evolutionary placements.           
+        </div>
+        <div class="span4 bd-2">  
+        <a href="http://sco.h-its.org/exelixis/web/software/epa/index.html">
+            <h4>Evolutionary Placement Algorithm</h4></a>
+            Algorithm for placing short reads onto a given reference phylogeny. 
+            This is part of standard <a href="http://sco.h-its.org/exelixis/web/software/raxml/index.html">RAxML</a>.	    
+        </div>
+        <div class="span4 bd-2">
+            <a href="http://sco.h-its.org/exelixis/web/software/papara/index.html"> 
+            <h4>PaPaRa</h4></a>
+            PArsimony-based Phylogeny-Aware Read alignment program. The tool uses a given multipe 
+            sequence alignment and corresponding reference tree to align short reads for analysis with the 
+            EPA (Evolutionary Placement Algorithm).            
+        </div>
+      </div><!--/row-->
+
+      <div class="row-fluid toptop">
+        <div class="span4 bd-2">
+            <a href="http://www.inf.kcl.ac.uk/research/projects/motex/" target="_blank"> 
+            <h4>MoTeX</h4></a>
+            An accurate and efficient tool for MoTif eXtraction.            
+        </div>
+          
+        <div class="span4 bd-2">
+            <a href="http://sco.h-its.org/exelixis/web/software/ChromatoGate/index.html"> 
+            <h4>ChromatoGate</h4></a>
+              A tool for analyzing and editing/correcting chromatogram data.           
+        </div>
+
+        <div class="span4 bd-2">
+            <a href="http://sco.h-its.org/exelixis/web/software/sativa/index.html"> 
+            <h4>SATIVA</h4></a>
+            Semi-Automatic Taxonomy Improvement and Validation Algorithm. Identifies taxonomically
+            mislabeled sequences and suggests corrections using EPA (Evolutionary Placement Algorithm).
+        </div>
+
+      </div><!--/row-->
+
+
+      
+
+      <div class="row-fluid toptop">  
+        <div class="span12"> <h3>Population genetics</h3> </div>
+      </div>
+
+      <div class="row-fluid toptop">
+        <div class="span4 bd-2"> 
+            <a href="http://sco.h-its.org/exelixis/web/software/anafits/index.html">
+            <h4>AnA-FiTS</h4> </a>
+            A very fast forward-in-time simulator for population genetics.
+        </div>
+        <div class="span4 bd-2"> 
+            <a href="http://sco.h-its.org/exelixis/web/software/sweed/index.html">
+            <h4>Sweed</h4></a>
+            A parallel and checkpointable tool that implements a composite likelihood ratio test for detecting selective sweeps. 
+            SweeD is based on the SweepFinder algorithm.           
+        </div>
+        <div class="span4 bd-2"> 
+            <a href="http://sco.h-its.org/exelixis/web/software/omegaplus/index.html">
+            <h4>OmegaPlus</h4></a>
+            A parallel tool for rapid &amp; scalable detection of selective sweeps in whole-genome datasets using the omega statistic.           
+        </div>
+      </div><!--/row-->
+
+
+     
+
+     
+      
+
+
+      
+      
+      <div class="row-fluid toptop">  
+        <div class="span12"> <h3>Web services</h3> </div>
+      </div>
+
+      <div class="row-fluid toptop">
+        <div class="span4 bd-2"> 
+            <h4>RAxML-Light Web-Service</h4>
+            Avaliable at the San Diego Supercomputer Center (supported by the NSF iPlant collaborative)
+            To use this service you will first need to create an iPlant login <a href="https://www.iplantcollaborative.org/user/register" target="_blank">here</a> 
+            and subsequently log in on the <a href="http://www.phylo.org/portal2/login%21input.action" target="_blank">CIPRES portal</a> using your iPlant credentials.
+        </div>
+        <div class="span4 bd-2">
+           
+            <h4>WEB-Servers for evolutionary placement of short reads</h4>
+             <a href="http://epa.h-its.org/raxml" target="_blank"> Our basic server
+             </a><br>
+	     <a href="http://mltreemap.org/" target="_blank">Fancy Swiss Server</a>
+        </div>
+        <div class="span4 bd-2">
+           
+            <h4>Rogue Taxon Identification Web-Server</h4>
+             <a href="http://rnr.h-its.org/" target="_blank"> access the server here.
+            </a>
+        </div>
+      </div><!--/row-->
+
+      <div class="row-fluid toptop">
+        <div class="span4 bd-2"> 
+            <h4>PTP  Web-Service</h4>
+            Access the web server for species delimitation using our new <a href="http://species.h-its.org/ptp/" target="_blank">PTP</a> method.
+        </div>
+        <div class="span4 bd-2">
+           
+          <h4>RAxML Web Servers</h4>
+	  
+            <a href="http://phylobench.vital-it.ch/raxml-bb/" target="_blank">Vital
+	      IT unit of the Swiss Institute of Bioinformatics</a>      		      
+		      <br>
+		      <a href="http://www.phylo.org/sub_sections/portal/" target="_blank">CIPRES
+			portal</a> at San Diego Supercomputer Center<br>
+		      <a href="http://www.phylo.org/portal2/login%21input.action" target="_blank">
+			New beta-versio</a>n of
+			the CIPRES portal that provides a full workbench<br>
+        </div>
+        
+      </div><!--/row-->
+      
+      
+      <div class="row-fluid toptop">  
+        <div class="span12"> <h3>Miscellaneous</h3> </div>
+      </div>
+      <div class="row-fluid toptop">
+        <div class="span4 bd-2">
+          <a href="http://sco.h-its.org/exelixis/web/software/fpn/index.html"> 
+            <h4>Microbenchmark for Denormalized Floating Point Numbers</h4>
+          </a>
+            A small benchmark code, mainly for teaching purposes that can be used to highlight the 
+            performance impact of de-normalized floating point numbers.
+        </div>
+        <div class="span4 bd-2">
+          <a href="http://sco.h-its.org/exelixis/web/software/fpga/index.html"> 
+            <h4>Reconfigurable Architectures (FPGAs)</h4>
+          </a>
+            Reconfigurable architectures for Bioinformatics applications designed by our former lab member Dr. Nikos Alachiotis.
+        </div>  <div class="span4 bd-2"> 
+          <h4>File conversion scripts</h4>
+          Shell script for <a href="http://sco.h-its.org/exelixis/resource/download/software/convert.sh">fasta to phylip</a> conversion. <br>
+          Matlab programs by Lowie Li for <a href="http://sco.h-its.org/exelixis/resource/download/software/ConvertFasta2Phylip.m">fasta to phylip</a> and 
+          <a href="http://sco.h-its.org/exelixis/resource/download/software/ConvertPhylip2Fasta.m">phylip to fasta</a> conversion.
+        </div>	
+      </div><!--/row-->
+      <div class="row-fluid toptop">
+      <div class="span4 bd-2">
+            <a href="http://sco.h-its.org/exelixis/web/software/tc/index.html"> 
+            <h4>TreeCounter</h4></a>
+            Small program to compute the number of possible rooted and unrooted binary trees for <i>n</i> taxa or 
+            to compute the number of possible binary trees given a multi-furcating constraint tree.            
+        </div>  
+     </div><!--/row-->
+
+
+
+      <div class="row-fluid toptop">
+
+      </div><!--/row-->
+
+      <hr>
+        
+      <footer>
+        <p>© The Exelixis Lab 2013 | Scientific Computing Group, Heidelberg Institute for Theoretical Studies, Schloss-Wolfsbrunnenweg 35, D-69118 Heidelberg</p>
+      </footer>
+
+    </div><!--/.fluid-container-->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="./software_files/jquery.js"></script>
+    <script src="./software_files/bootstrap.js"></script>
+  
+
+</body></html>

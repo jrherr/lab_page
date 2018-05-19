@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Laboratory website">
+    <meta name="author" content="Josh Herr">
+    <link rel="shortcut icon" href="ico/favicon.png">
+
+    <title>The Herr Laboratory</title>
+
+    <!-- Bootstrap core CSS -->
+
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <link href="css/academicons.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <!--<link href="css/animate-custom.css" rel="stylesheet">-->
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+
+    <script src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/modernizr.custom.js"></script>
+	<script src="js/bootstrap.js"></script>
+	<style>
+      #map-canvas {
+        width: 325px;
+        height: 325px;
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <script>
+      function initialize() {
+        var mapCanvas = document.getElementById('map-canvas');
+        var mapOptions = {
+          center: new google.maps.LatLng(40.819262, -96.693043),
+          zoom: 15,
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        }
+        var map = new google.maps.Map(mapCanvas, mapOptions)
+      }
+      google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="assets/js/html5shiv.js"></script>
+      <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
+  	<div id="navbar-main">
+      <!-- Fixed navbar -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon icon-shield" style="font-size:30px; color:#3498db;"></span>
+          </button>
+          <a class="navbar-brand hidden-xs hidden-sm" href="#home"><span class="fa fa-leaf" style="font-size:18px; color:#3abd26;"></span></a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="#" class="smoothScroll"><span style= "font-size:20px; font-weight: 700; color:red">The Herr Lab</a></li>
+			<li> <a href="#about" class="smoothScroll"><b>Research</b></a></li>
+			<!--<li> <a href="#teaching" class="smoothScroll"><b>Teaching</b></a></li>-->
+			<li> <a href="#people" class="smoothScroll"><b>People</b></a></li>
+			<li> <a href="#publications" class="smoothScroll"><b>Publications</b></a></li>
+			<li> <a href="http://cymeandcystidium.com" class="smoothScroll"><b>Josh's Blog</b></a></li>
+			<li> <a href="#news" class="smoothScroll"><b>Outreach</b></a></li>
+			<!--<li> <a href="#contact" class="smoothScroll"><b>Contact</b></a></li>--></ul>
+		  <ul class="nav navbar-nav navbar-right">
+	      	<li class="dropdown">
+	      	<a href="#" class="dropdown-toggle" data-toggle="dropdown" style="color:red"><b>UNL</b><span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+            <li><a href="http://www.unl.edu/"><b>University of Nebraska - Lincoln</b></a></li>
+			<li><a href="http://plantpathology.unl.edu/"><b>Department of Plant Pathology</b></a></li>
+			<li><a href="http://www.unl.edu/psi/"><b>Center for Plant Science Innovation</b></a></li>
+			<li><a href="http://microbiology.unl.edu/microbiology-unl"><b>Microbiology at UNL</b></a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    </div>
+
+				<div id="footerwrap">
+			<div class="container" id="contact" name="contact">
+			<div class="row">
+			<br>
+				<h1 class="centered" style="color:white">GET IN TOUCH</h1>
+				<hr>
+				<br>
+				<br>
+				<div class="col-lg-4">
+					<h3 style="color:white">Contact Information</h3>
+					<p style="color:white"><span class="icon icon-home"></span> Address<br/>
+						<span style="color:white">University of Nebraska<br/>
+						<span style="color:while">Lincoln, NE 68588, USA<br/>
+						<span style="color:white"></span> c/o Dr. Joshua R. Herr, PI<br/>
+						<span style="color:white"></span> Center for Plant Science Innovation<br/>
+						<span style="color:white"></span> Department of Plant Pathology<br/>
+						<!--<span class="icon icon-phone"></span> +34 9884 4893 <br/>
+						<span class="icon icon-mobile"></span> +34 59855 9853 <br/>-->
+						<br/>
+						<span class="fa fa-envelope"></span> <a href="#"> @unl.edu</a> <br/>
+						<span class="fa fa-twitter"></span> <a href="https://twitter.com/number_three"> @number_three </a> <br/>
+						<span class="fa fa-github"></span> <a href="https://github.com/jrherr"> jrherr </a> <br/>
+						<span class="fa fa-github"></span> <a href="https://github.com/HerrLab"> Lab Github </a> <br/>
+						<span class="ai ai-google-scholar"></span> <a href="https://scholar.google.com/citations?user=ZDnMer4AAAAJ&hl=en"> Google Scholar </a> <br/>
+						<span class="ai ai-researchgate"></span> <a href="https://www.researchgate.net/profile/Joshua_Herr"> Research Gate </a> <br/>
+						<span class="ai ai-orcid"></span> <a href="http://orcid.org/0000-0003-3425-292X"> ORCID </a>
+					</p>
+				</div><!-- col -->
+
+				<div class="col-lg-4">
+					<h3 style="color:white">Newsletter</h3>
+					<p style="color:white">Register to our newsletter and be updated with the latests information regarding our services, offers and much more.</p>
+					<p>
+						<form class="form-horizontal" role="form">
+						  <div class="form-group">
+						    <label for="inputEmail1" class="col-lg-4 control-label"></label>
+						    <div class="col-lg-10">
+						      <input type="email" class="form-control" id="inputEmail1" placeholder="Email">
+						    </div>
+						  </div>
+						  <div class="form-group">
+						    <label for="text1" class="col-lg-4 control-label"></label>
+						    <div class="col-lg-10">
+						      <input type="text" class="form-control" id="text1" placeholder="Your Name">
+						    </div>
+						  </div>
+						  <div class="form-group">
+						    <div class="col-lg-10">
+						      <button type="submit" class="btn btn-success">Submit</button>
+						    </div>
+						  </div>
+					   </form><!-- form -->
+					</p>
+				</div><!-- col -->
+				<div class="col-lg-4" class="centered">
+					<h3 style="color:white" align="center">Visit Us</h3>
+					<p id=map-canvas align="center"> </p>
+				</div><!-- col -->
+
+			</div><!-- row -->
+		</div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/retina.js"></script>
+	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="js/smoothscroll.js"></script>
+	<script type="text/javascript" src="js/jquery-func.js"></script>
+  </body>
+</html>
