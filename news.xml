@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>Herr Lab News</title>
+  <link href="http://localhost:4000"/>
+  <link type="application/atom+xml" rel="self" href="http://localhost:4000/news.xml"/>
+  <updated>2020-08-30T18:25:33-05:00</updated>
+  <id>http://localhost:4000</id>
+  <author>
+    <name>Josh Herr</name>
+    <!-- <email>you@example.com</email> -->
+  </author>
+
+  
+  <entry>
+    <id>http://localhost:4000/2020/08/28/New-Website</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2020/08/28/New-Website/"/>
+    <title>Finally! An Updated Website!</title>
+    <published>2020-08-28T00:00:00-05:00</published>
+    <updated>2020-08-28T00:00:00-05:00</updated>
+    <author>
+      <name>Josh Herr</name>
+      <uri>/2020/08/28/New-Website/</uri>
+    </author>
+    <content type="html">&lt;p&gt;The Herr Lab has an updated website! Yay! This was a long time coming and it’s still in the middle of updates. We appreciate your patience! We also want to thank the other laboratories whose open websites contributed to ours!&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://localhost:4000/2019/10/20/Rachel_poster</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2019/10/20/Rachel_poster/"/>
+    <title>Rachel Presents at the PSI Research Symposium</title>
+    <published>2019-10-20T00:00:00-05:00</published>
+    <updated>2019-10-20T00:00:00-05:00</updated>
+    <author>
+      <name>Josh Herr</name>
+      <uri>/2019/10/20/Rachel_poster/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/static/img/news/rachel_poster.jpg&quot; alt=&quot;rachel_poster&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Post-doc Rachel Koch started working in the Herr lab at the beginning of September and she’s already got a few posters worth of data analyzed! Here’s one of our new projects happening at the UNL’s &lt;a href=&quot;https://www.unl.edu/psi/&quot;&gt;Center for Plant Science Innovation&lt;/a&gt; &lt;a href=&quot;https://www.unl.edu/psi/psi-symposium&quot;&gt;2019 research symposium&lt;/a&gt;!&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://localhost:4000/2019/08/12/Field_work</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2019/08/12/Field_work/"/>
+    <title>Wrapping up a big week of field work!</title>
+    <published>2019-08-12T00:00:00-05:00</published>
+    <updated>2019-08-12T00:00:00-05:00</updated>
+    <author>
+      <name>Josh Herr</name>
+      <uri>/2019/08/12/Field_work/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/static/img/news/field_finish.jpg&quot; alt=&quot;field_finish&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Herr Lab group, along with the [Rhae Drijber Lab] in &lt;a href=&quot;https://agronomy.unl.edu/&quot;&gt;UNL’s Agronomy &amp;amp; Horticulure Department&lt;/a&gt;, just wrapped up a reallly large field sampling to inspect the role of agricultural microbiomes in plant health and productivity. We’re super exhausted, but we also had a lot of fun! Incredible efforts by everyone!&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://localhost:4000/2019/08/07/Emma_Summer_Research</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2019/08/07/Emma_Summer_Research/"/>
+    <title>Emma Presents at the Nebraska Summer Research Symposium</title>
+    <published>2019-08-07T00:00:00-05:00</published>
+    <updated>2019-08-07T00:00:00-05:00</updated>
+    <author>
+      <name>Josh Herr</name>
+      <uri>/2019/08/07/Emma_Summer_Research/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/static/img/news/emma_poster.jpg&quot; alt=&quot;emma_poster&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We were so excited this summer to host Emma and we’re equally excited to know she’ll continue to work in the lab over the next year. Emma is a superbly stellar Junior from nearby &lt;a href=&quot;https://www.nebrwesleyan.edu/&quot;&gt;Nebraska Wesleyan University&lt;/a&gt; who came to the lab group with mentor &lt;a href=&quot;https://www.nebrwesleyan.edu/campus-directory/jerald-jerry-s-bricker&quot;&gt;Jerry Bricker&lt;/a&gt; during Jerry’s Sabbatical visit to the laboratory. Emma’s research is focused on understanding the role of inputs from plant host and environment in structuring microbial communities in local Native grassland prairies. She is an expert in DNA extraction and will beat any anyone in overall yield and extraction quality! Look out lab olympics! We have a new champion!&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://localhost:4000/2019/08/07/Alex_Summer_Research</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2019/08/07/Alex_Summer_Research/"/>
+    <title>Alex Presents at the Nebraska Summer Research Symposium</title>
+    <published>2019-08-07T00:00:00-05:00</published>
+    <updated>2019-08-07T00:00:00-05:00</updated>
+    <author>
+      <name>Josh Herr</name>
+      <uri>/2019/08/07/Alex_Summer_Research/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/static/img/news/alex_poster.jpg&quot; alt=&quot;alex_poster&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Alex (short for Alexandra) has been one of our DOE Bioenergy REU this summer. We couldn’t have asked for a more awesome lab visitor. I (Josh) was super excited to host Alex because she is a student in the &lt;a href=&quot;https://www.biochem.vt.edu/&quot;&gt;Biochemistry Department&lt;/a&gt; at &lt;a href=&quot;https://vt.edu/&quot;&gt;Virginia Tech&lt;/a&gt; – the same department I got my undergraduate degree. Alex jumped in a worked with Erin Carr and Herr Lab collaborator &lt;a href=&quot;https://biosci.unl.edu/wayne-riekhof&quot;&gt;Wayne Riekhof&lt;/a&gt; in studying the plant growth stimulation capabilities of different &lt;em&gt;Methylobacterium&lt;/em&gt; strains isolated from soil, soil crusts, plants, and a dirty stream across the street!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/img/news/alex_and_erin.jpg&quot; alt=&quot;alex_and_erin&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s Alex discussing her poster with laboratory mentor Erin Carr.&lt;/p&gt;
+
+&lt;p&gt;We had a great summer REU research symposium today!&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://localhost:4000/2019/06/10/Lab_Pizza</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2019/06/10/Lab_Pizza/"/>
+    <title>Pizza! Thais passed her comprehensive exam!</title>
+    <published>2019-06-10T00:00:00-05:00</published>
+    <updated>2019-06-10T00:00:00-05:00</updated>
+    <author>
+      <name>Josh Herr</name>
+      <uri>/2019/06/10/Lab_Pizza/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/static/img/news/pizza_dinner.jpg&quot; alt=&quot;lab_pizza&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thais passed her comprehensive exam today and, although not all of us were available, we headed out for laboratory pizza dinner at &lt;a href=&quot;https://www.yiayiaspizzaandbeer.com/&quot;&gt;Yia-Yia’s&lt;/a&gt;. We had a great time celebrating Thais’s accomplishments and greeting our summer research visitors: Alex, Emma, and Seth!&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://localhost:4000/2018/10/29/Congratulations_Timothy</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2018/10/29/Congratulations_Timothy/"/>
+    <title>Timothy successfully defends his MS thesis!</title>
+    <published>2018-10-29T00:00:00-05:00</published>
+    <updated>2018-10-29T00:00:00-05:00</updated>
+    <author>
+      <name>Josh Herr</name>
+      <uri>/2018/10/29/Congratulations_Timothy/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/static/img/news/hop_cat_dinner.jpg&quot; alt=&quot;hop_cat&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We had a great lab outing tonight at &lt;a href=&quot;https://hopcat.com/lincoln&quot;&gt;Hop Cat&lt;/a&gt; to celebrate the successful defense of my first graduate student, Timothy! Congratulations Timothy!&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://localhost:4000/2018/06/04/Lab_trivia</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2018/06/04/Lab_trivia/"/>
+    <title>Laboratory Trivia Night</title>
+    <published>2018-06-04T00:00:00-05:00</published>
+    <updated>2018-06-04T00:00:00-05:00</updated>
+    <author>
+      <name>Josh Herr</name>
+      <uri>/2018/06/04/Lab_trivia/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/static/img/news/lab_trivia.jpg&quot; alt=&quot;lab_trivia&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We were a slim group, but we’ve been putting our best mental feet forward to tackle team trivia at &lt;a href=&quot;https://www.thehappyraven.com/&quot;&gt;The Happy Raven&lt;/a&gt;. We were in the lead until the picture trivia round when we had to identify Victoria Secret models by name – we didn’t get any of those questions correct! Even Twister came out to help with trivia tonight!&lt;/p&gt;
+</content>
+  </entry>
+  
+ 
+</feed>
