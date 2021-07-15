@@ -4,13 +4,29 @@
   <title>Herr Lab News</title>
   <link href="http://herrlab.com"/>
   <link type="application/atom+xml" rel="self" href="http://herrlab.com/news.xml"/>
-  <updated>2021-07-01T17:27:34-05:00</updated>
+  <updated>2021-07-15T18:21:18-05:00</updated>
   <id>http://herrlab.com</id>
   <author>
     <name>Josh Herr</name>
     <!-- <email>you@example.com</email> -->
   </author>
 
+  
+  <entry>
+    <id>http://herrlab.com/2021/07/09/Rachel_CB</id>
+    <link type="text/html" rel="alternate" href="http://herrlab.com/2021/07/09/Rachel_CB/"/>
+    <title>Rachel Presents at the PSI Research Symposium</title>
+    <published>2021-07-09T00:00:00-05:00</published>
+    <updated>2021-07-09T00:00:00-05:00</updated>
+    <author>
+      <name>Josh Herr</name>
+      <uri>/2021/07/09/Rachel_CB/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/static/img/news/Koch_CB.jpg&quot; alt=&quot;rachel_current_biology&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We’re really excited to announce that post-doc Rachel Koch’s paper on the biology of the really fascinating fungus Guyanagaster, is out in &lt;a href=&quot;https://www.sciencedirect.com/science/article/abs/pii/S0960982221008289&quot;&gt;Current Biology&lt;/a&gt; today! &lt;a href=&quot;/static/pdf/Koch_CB_2021.pdf&quot;&gt;This paper&lt;/a&gt; documents the first time that nitrogen fixation  has been documented in a fungal fruiting body through the associated internal bacteria. This was a paper that led out of her PhD thesis work, which she expanded here in the lab. It was a great way for her to transition from her PhD work to some of her work in her post-doc position in the lab. Congratulations Rachel!&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://herrlab.com/2020/08/28/New-Website</id>
@@ -147,141 +163,16 @@
   <entry>
     <id>http://herrlab.com/2017/11/20/Stengel_NSF_HM</id>
     <link type="text/html" rel="alternate" href="http://herrlab.com/2017/11/20/Stengel_NSF_HM/"/>
-    <title>Sunday With A Scientist</title>
+    <title>Congratulations to Ashley!</title>
     <published>2017-11-20T00:00:00-06:00</published>
     <updated>2017-11-20T00:00:00-06:00</updated>
     <author>
       <name>Josh Herr</name>
       <uri>/2017/11/20/Stengel_NSF_HM/</uri>
     </author>
-    <content type="html">&lt;p&gt;Today, The Herr lab led a group of plant root and soil scientists to spend the afternoon at &lt;a href=&quot;https://museum.unl.edu/welcome.html&quot;&gt;Morrill Hall&lt;/a&gt; (at &lt;a href=&quot;https://museum.unl.edu/&quot;&gt;The University of Nebraska State Museum&lt;/a&gt;) in their &lt;a href=&quot;https://museum.unl.edu/programs-events/sunday-with-a-scientist.html&quot;&gt;Sunday With A Scientist&lt;/a&gt; series. This is a great series of Monthly science events with a specific focus that is fostered for &lt;a href=&quot;https://research.unl.edu/broaderimpacts/sunday-with-a-scientist/&quot;&gt;Broader Impacts by UNL’s Office of Research and Economic Development&lt;/a&gt;.&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/static/img/news/unl_stengel.jpg&quot; alt=&quot;unl_stengel&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Our topic was &lt;a href=&quot;https://news.unl.edu/newsrooms/today/article/sunday-with-a-scientist-to-focus-on-jungle-under-our-feet/&quot;&gt;The Jungle Beneath Our Feet&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The Herr Lab, who is affiliated with the &lt;a href=&quot;https://crri.unl.edu/&quot;&gt;Center for Root and Rhizobiome Innovation&lt;/a&gt;  was joined by other researchers and scientists from the collective. We were there to help visitors to the museum learn more about plant roots, soil, and microbes in agriculture. We set up displays and participated in hands-on activities including examining soil microbes under a microscope and comparing root structures from different crop plants.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/static/img/news/sunday_with_scientist.jpg&quot; alt=&quot;sunday_with_scientist&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Here’s a few of the participants during the cleanup for the event! We were proud to hold a poster drawn by children who attended the event and who communicated about what they learned. We had a great time! &lt;a href=&quot;https://news.unl.edu/newsrooms/today/article/sunday-with-a-scientist-to-focus-on-jungle-under-our-feet/&quot;&gt;See here for the Press Release for the event&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Here’s some more photos from the event:&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;
-  &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Eddie from my lab is tired after an afternoon of looking at AMF spores at &lt;a href=&quot;https://twitter.com/hashtag/SundayWithAScientist?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#SundayWithAScientist&lt;/a&gt; &lt;a href=&quot;https://twitter.com/NE_CRRI?ref_src=twsrc%5Etfw&quot;&gt;@NE_CRRI&lt;/a&gt; &lt;a href=&quot;https://twitter.com/NebraskaEPSCoR?ref_src=twsrc%5Etfw&quot;&gt;@NebraskaEPSCoR&lt;/a&gt; &lt;a href=&quot;https://twitter.com/UNL_PSI?ref_src=twsrc%5Etfw&quot;&gt;@UNL_PSI&lt;/a&gt; &lt;a href=&quot;https://t.co/XMO7bjtZ06&quot;&gt;pic.twitter.com/XMO7bjtZ06&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;— Josh Herr (@number_three) &lt;a href=&quot;https://twitter.com/number_three/status/909667053551869952?ref_src=twsrc%5Etfw&quot;&gt;September 18, 2017&lt;/a&gt;&amp;lt;/blockquote&amp;gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&amp;lt;/br&amp;gt;&lt;/p&gt;
-
-  &lt;blockquote class=&quot;twitter-tweet&quot;&gt;
-    &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Strawberries, with an octoploid genome, provide lots of DNA for our lab demo with &lt;a href=&quot;https://twitter.com/kaf_silva?ref_src=twsrc%5Etfw&quot;&gt;@kaf_silva&lt;/a&gt; &lt;a href=&quot;https://twitter.com/NebraskaEPSCoR?ref_src=twsrc%5Etfw&quot;&gt;@NebraskaEPSCoR&lt;/a&gt; &lt;a href=&quot;https://twitter.com/NE_CRRI?ref_src=twsrc%5Etfw&quot;&gt;@NE_CRRI&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/SundayWithAScientist?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#SundayWithAScientist&lt;/a&gt; &lt;a href=&quot;https://t.co/ZTBh3Ot8SZ&quot;&gt;pic.twitter.com/ZTBh3Ot8SZ&lt;/a&gt;&lt;/p&gt;
-    &lt;p&gt;— Josh Herr (@number_three) &lt;a href=&quot;https://twitter.com/number_three/status/909666800178098177?ref_src=twsrc%5Etfw&quot;&gt;September 18, 2017&lt;/a&gt;&amp;lt;/blockquote&amp;gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-    &lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
-
-    &lt;blockquote class=&quot;twitter-tweet&quot;&gt;
-      &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Timothy from my lab explains DNA extraction. &lt;a href=&quot;https://twitter.com/NE_CRRI?ref_src=twsrc%5Etfw&quot;&gt;@NE_CRRI&lt;/a&gt; &lt;a href=&quot;https://twitter.com/NebraskaEPSCoR?ref_src=twsrc%5Etfw&quot;&gt;@NebraskaEPSCoR&lt;/a&gt; &lt;a href=&quot;https://twitter.com/UNLsbs?ref_src=twsrc%5Etfw&quot;&gt;@UNLsbs&lt;/a&gt; &lt;a href=&quot;https://twitter.com/UNL_PSI?ref_src=twsrc%5Etfw&quot;&gt;@UNL_PSI&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/NSFfunded?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#NSFfunded&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/SundayWithAScientist?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#SundayWithAScientist&lt;/a&gt; &lt;a href=&quot;https://t.co/rqi3F4Ihlt&quot;&gt;pic.twitter.com/rqi3F4Ihlt&lt;/a&gt;&lt;/p&gt;
-      &lt;p&gt;— Josh Herr (@number_three) &lt;a href=&quot;https://twitter.com/number_three/status/909666549551611906?ref_src=twsrc%5Etfw&quot;&gt;September 18, 2017&lt;/a&gt;&amp;lt;/blockquote&amp;gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-      &lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
-
-      &lt;blockquote class=&quot;twitter-tweet&quot;&gt;
-        &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;The kids loved to draw microbes with &lt;a href=&quot;https://twitter.com/thaisegreja?ref_src=twsrc%5Etfw&quot;&gt;@thaisegreja&lt;/a&gt; at &lt;a href=&quot;https://twitter.com/hashtag/SundayWithAScientist?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#SundayWithAScientist&lt;/a&gt; &lt;a href=&quot;https://twitter.com/NE_CRRI?ref_src=twsrc%5Etfw&quot;&gt;@NE_CRRI&lt;/a&gt; &lt;a href=&quot;https://twitter.com/NebraskaEPSCoR?ref_src=twsrc%5Etfw&quot;&gt;@NebraskaEPSCoR&lt;/a&gt; &lt;a href=&quot;https://twitter.com/UNL_PSI?ref_src=twsrc%5Etfw&quot;&gt;@UNL_PSI&lt;/a&gt; &lt;a href=&quot;https://t.co/UMow7EnGn7&quot;&gt;pic.twitter.com/UMow7EnGn7&lt;/a&gt;&lt;/p&gt;
-        &lt;p&gt;— Josh Herr (@number_three) &lt;a href=&quot;https://twitter.com/number_three/status/909666044951674880?ref_src=twsrc%5Etfw&quot;&gt;September 18, 2017&lt;/a&gt;&amp;lt;/blockquote&amp;gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-        &lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
-
-        &lt;blockquote class=&quot;twitter-tweet&quot;&gt;
-          &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;.&lt;a href=&quot;https://twitter.com/thaisegreja?ref_src=twsrc%5Etfw&quot;&gt;@thaisegreja&lt;/a&gt; teaches how to differentiate microbes! &lt;a href=&quot;https://twitter.com/NE_CRRI?ref_src=twsrc%5Etfw&quot;&gt;@NE_CRRI&lt;/a&gt; &lt;a href=&quot;https://twitter.com/NebraskaEPSCoR?ref_src=twsrc%5Etfw&quot;&gt;@NebraskaEPSCoR&lt;/a&gt; &lt;a href=&quot;https://twitter.com/UNL_PSI?ref_src=twsrc%5Etfw&quot;&gt;@UNL_PSI&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/NSFfunded?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#NSFfunded&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/SundayWithAScientist?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#SundayWithAScientist&lt;/a&gt; &lt;a href=&quot;https://t.co/YwszxtPkFp&quot;&gt;pic.twitter.com/YwszxtPkFp&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;— Josh Herr (@number_three) &lt;a href=&quot;https://twitter.com/number_three/status/909665291520565248?ref_src=twsrc%5Etfw&quot;&gt;September 18, 2017&lt;/a&gt;&amp;lt;/blockquote&amp;gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-          &lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
-
-          &lt;blockquote class=&quot;twitter-tweet&quot;&gt;
-            &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Ashley explains how mycorrhizae provide nutrients to plant roots. &lt;a href=&quot;https://twitter.com/NE_CRRI?ref_src=twsrc%5Etfw&quot;&gt;@NE_CRRI&lt;/a&gt; &lt;a href=&quot;https://twitter.com/NebraskaEPSCoR?ref_src=twsrc%5Etfw&quot;&gt;@NebraskaEPSCoR&lt;/a&gt; &lt;a href=&quot;https://twitter.com/unlagrohort?ref_src=twsrc%5Etfw&quot;&gt;@unlagrohort&lt;/a&gt; &lt;a href=&quot;https://twitter.com/UNLBigData?ref_src=twsrc%5Etfw&quot;&gt;@UNLBigData&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/SundayWithAScientist?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#SundayWithAScientist&lt;/a&gt; &lt;a href=&quot;https://t.co/jBMNG3PhWv&quot;&gt;pic.twitter.com/jBMNG3PhWv&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;— Josh Herr (@number_three) &lt;a href=&quot;https://twitter.com/number_three/status/909665290518110209?ref_src=twsrc%5Etfw&quot;&gt;September 18, 2017&lt;/a&gt;&amp;lt;/blockquote&amp;gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-            &lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
-
-            &lt;blockquote class=&quot;twitter-tweet&quot;&gt;
-              &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;.&lt;a href=&quot;https://twitter.com/PlantsRChemists?ref_src=twsrc%5Etfw&quot;&gt;@PlantsRChemists&lt;/a&gt; shows off some nitrogen-fixing root nodules! &lt;a href=&quot;https://twitter.com/NE_CRRI?ref_src=twsrc%5Etfw&quot;&gt;@NE_CRRI&lt;/a&gt; &lt;a href=&quot;https://twitter.com/NebraskaEPSCoR?ref_src=twsrc%5Etfw&quot;&gt;@NebraskaEPSCoR&lt;/a&gt; &lt;a href=&quot;https://twitter.com/UNL_Biochem?ref_src=twsrc%5Etfw&quot;&gt;@UNL_Biochem&lt;/a&gt; &lt;a href=&quot;https://twitter.com/UNL_PSI?ref_src=twsrc%5Etfw&quot;&gt;@UNL_PSI&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/NSFfunded?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#NSFfunded&lt;/a&gt; &lt;a href=&quot;https://t.co/Vx9cH8ucvx&quot;&gt;pic.twitter.com/Vx9cH8ucvx&lt;/a&gt;&lt;/p&gt;
-              &lt;p&gt;— Josh Herr (@number_three) &lt;a href=&quot;https://twitter.com/number_three/status/909664538219356160?ref_src=twsrc%5Etfw&quot;&gt;September 18, 2017&lt;/a&gt;&amp;lt;/blockquote&amp;gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-              &lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
-
-              &lt;blockquote class=&quot;twitter-tweet&quot;&gt;
-                &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;HaeJin Kim from the Cahoon Lab &lt;a href=&quot;https://twitter.com/UNL_PSI?ref_src=twsrc%5Etfw&quot;&gt;@UNL_PSI&lt;/a&gt; informs us on plant chemicals interacting with microbes. &lt;a href=&quot;https://twitter.com/NE_CRRI?ref_src=twsrc%5Etfw&quot;&gt;@NE_CRRI&lt;/a&gt; &lt;a href=&quot;https://twitter.com/UNL_Biochem?ref_src=twsrc%5Etfw&quot;&gt;@UNL_Biochem&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/SundayWithAScientist?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#SundayWithAScientist&lt;/a&gt; &lt;a href=&quot;https://t.co/SySvcYrOOS&quot;&gt;pic.twitter.com/SySvcYrOOS&lt;/a&gt;&lt;/p&gt;
-                &lt;p&gt;— Josh Herr (@number_three) &lt;a href=&quot;https://twitter.com/number_three/status/909663025434468352?ref_src=twsrc%5Etfw&quot;&gt;September 18, 2017&lt;/a&gt;&amp;lt;/blockquote&amp;gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-                &lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
-
-                &lt;blockquote class=&quot;twitter-tweet&quot;&gt;
-                  &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;.&lt;a href=&quot;https://twitter.com/MoeMcPherson?ref_src=twsrc%5Etfw&quot;&gt;@MoeMcPherson&lt;/a&gt; from the &lt;a href=&quot;https://twitter.com/dschachtman?ref_src=twsrc%5Etfw&quot;&gt;@dschachtman&lt;/a&gt; lab shows off her rainbow of bacterial diversity from soil! &lt;a href=&quot;https://twitter.com/NE_CRRI?ref_src=twsrc%5Etfw&quot;&gt;@NE_CRRI&lt;/a&gt; &lt;a href=&quot;https://twitter.com/NebraskaEPSCoR?ref_src=twsrc%5Etfw&quot;&gt;@NebraskaEPSCoR&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/NSFfunded?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#NSFfunded&lt;/a&gt; &lt;a href=&quot;https://t.co/OvZ7DKz686&quot;&gt;pic.twitter.com/OvZ7DKz686&lt;/a&gt;&lt;/p&gt;
-                  &lt;p&gt;— Josh Herr (@number_three) &lt;a href=&quot;https://twitter.com/number_three/status/909661766153621504?ref_src=twsrc%5Etfw&quot;&gt;September 18, 2017&lt;/a&gt;&amp;lt;/blockquote&amp;gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-                  &lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
-
-                  &lt;blockquote class=&quot;twitter-tweet&quot;&gt;
-                    &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;…and here&apos;s a detail of the root-microbe-soil interface from their poster! &lt;a href=&quot;https://twitter.com/SoilSciSal?ref_src=twsrc%5Etfw&quot;&gt;@SoilSciSal&lt;/a&gt; &lt;a href=&quot;https://twitter.com/NE_CRRI?ref_src=twsrc%5Etfw&quot;&gt;@NE_CRRI&lt;/a&gt; &lt;a href=&quot;https://twitter.com/unlagrohort?ref_src=twsrc%5Etfw&quot;&gt;@unlagrohort&lt;/a&gt; &lt;a href=&quot;https://twitter.com/UNLdph?ref_src=twsrc%5Etfw&quot;&gt;@UNLdph&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/SundayWithAScientist?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#SundayWithAScientist&lt;/a&gt; &lt;a href=&quot;https://t.co/GDGM0H2swW&quot;&gt;pic.twitter.com/GDGM0H2swW&lt;/a&gt;&lt;/p&gt;
-                    &lt;p&gt;— Josh Herr (@number_three) &lt;a href=&quot;https://twitter.com/number_three/status/909660511544979456?ref_src=twsrc%5Etfw&quot;&gt;September 18, 2017&lt;/a&gt;&amp;lt;/blockquote&amp;gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-                    &lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
-
-                    &lt;blockquote class=&quot;twitter-tweet&quot;&gt;
-                      &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Ashley &amp;amp; &lt;a href=&quot;https://twitter.com/SoilSciSal?ref_src=twsrc%5Etfw&quot;&gt;@SoilSciSal&lt;/a&gt; in front of their poster on microbial lipids in the soil. &lt;a href=&quot;https://twitter.com/UNLBigData?ref_src=twsrc%5Etfw&quot;&gt;@UNLBigData&lt;/a&gt; &lt;a href=&quot;https://twitter.com/unlagrohort?ref_src=twsrc%5Etfw&quot;&gt;@unlagrohort&lt;/a&gt; &lt;a href=&quot;https://twitter.com/UNLdph?ref_src=twsrc%5Etfw&quot;&gt;@UNLdph&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/SundayWithAScientist?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#SundayWithAScientist&lt;/a&gt; &lt;a href=&quot;https://t.co/0AyRktJf7p&quot;&gt;pic.twitter.com/0AyRktJf7p&lt;/a&gt;&lt;/p&gt;
-                      &lt;p&gt;— Josh Herr (@number_three) &lt;a href=&quot;https://twitter.com/number_three/status/909660004478722048?ref_src=twsrc%5Etfw&quot;&gt;September 18, 2017&lt;/a&gt;&amp;lt;/blockquote&amp;gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-                      &lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
-
-                      &lt;blockquote class=&quot;twitter-tweet&quot;&gt;
-                        &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;.@MrMeierhusker from &lt;a href=&quot;https://twitter.com/JimAlfano1?ref_src=twsrc%5Etfw&quot;&gt;@JimAlfano1&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/TEClemente1?ref_src=twsrc%5Etfw&quot;&gt;@TEClemente1&lt;/a&gt;&apos;s labs prepares some visuals from the soil. &lt;a href=&quot;https://twitter.com/NE_CRRI?ref_src=twsrc%5Etfw&quot;&gt;@NE_CRRI&lt;/a&gt; &lt;a href=&quot;https://twitter.com/unlagrohort?ref_src=twsrc%5Etfw&quot;&gt;@unlagrohort&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/SundayWithAScientist?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#SundayWithAScientist&lt;/a&gt; &lt;a href=&quot;https://t.co/HtoM6uzjPj&quot;&gt;pic.twitter.com/HtoM6uzjPj&lt;/a&gt;&lt;/p&gt;
-                        &lt;p&gt;— Josh Herr (@number_three) &lt;a href=&quot;https://twitter.com/number_three/status/909657191933632512?ref_src=twsrc%5Etfw&quot;&gt;September 18, 2017&lt;/a&gt;&amp;lt;/blockquote&amp;gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-                        &lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
-
-                        &lt;blockquote class=&quot;twitter-tweet&quot;&gt;
-                          &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;.@MrMeierhusker from &lt;a href=&quot;https://twitter.com/JimAlfano1?ref_src=twsrc%5Etfw&quot;&gt;@JimAlfano1&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/TEClemente1?ref_src=twsrc%5Etfw&quot;&gt;@TEClemente1&lt;/a&gt;&apos;s labs prepares some visuals from the soil. &lt;a href=&quot;https://twitter.com/NE_CRRI?ref_src=twsrc%5Etfw&quot;&gt;@NE_CRRI&lt;/a&gt; &lt;a href=&quot;https://twitter.com/unlagrohort?ref_src=twsrc%5Etfw&quot;&gt;@unlagrohort&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/SundayWithAScientist?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#SundayWithAScientist&lt;/a&gt; &lt;a href=&quot;https://t.co/HtoM6uzjPj&quot;&gt;pic.twitter.com/HtoM6uzjPj&lt;/a&gt;&lt;/p&gt;
-                          &lt;p&gt;— Josh Herr (@number_three) &lt;a href=&quot;https://twitter.com/number_three/status/909657191933632512?ref_src=twsrc%5Etfw&quot;&gt;September 18, 2017&lt;/a&gt;&amp;lt;/blockquote&amp;gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-                          &lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
-
-                          &lt;blockquote class=&quot;twitter-tweet&quot;&gt;
-                            &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;The &lt;a href=&quot;https://twitter.com/dschachtman?ref_src=twsrc%5Etfw&quot;&gt;@dschachtman&lt;/a&gt; lab presented on plant exudates and their interactions with microbes! &lt;a href=&quot;https://twitter.com/unlagrohort?ref_src=twsrc%5Etfw&quot;&gt;@unlagrohort&lt;/a&gt; &lt;a href=&quot;https://twitter.com/NE_CRRI?ref_src=twsrc%5Etfw&quot;&gt;@NE_CRRI&lt;/a&gt; &lt;a href=&quot;https://twitter.com/UNL_PSI?ref_src=twsrc%5Etfw&quot;&gt;@UNL_PSI&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/SundayWithAScientist?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#SundayWithAScientist&lt;/a&gt; &lt;a href=&quot;https://t.co/Spqk8zBH5b&quot;&gt;pic.twitter.com/Spqk8zBH5b&lt;/a&gt;&lt;/p&gt;
-                            &lt;p&gt;— Josh Herr (@number_three) &lt;a href=&quot;https://twitter.com/number_three/status/909654477149368321?ref_src=twsrc%5Etfw&quot;&gt;September 18, 2017&lt;/a&gt;&amp;lt;/blockquote&amp;gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-                            &lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
-
-                            &lt;blockquote class=&quot;twitter-tweet&quot;&gt;
-                              &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Timothy &amp;amp; &lt;a href=&quot;https://twitter.com/kaf_silva?ref_src=twsrc%5Etfw&quot;&gt;@kaf_silva&lt;/a&gt; from my group explain how to extract DNA from plants and soil. &lt;a href=&quot;https://twitter.com/NE_CRRI?ref_src=twsrc%5Etfw&quot;&gt;@NE_CRRI&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/NSFfunded?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#NSFfunded&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/SundayWithAScientist?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#SundayWithAScientist&lt;/a&gt; &lt;a href=&quot;https://t.co/5GCvjwmr1t&quot;&gt;pic.twitter.com/5GCvjwmr1t&lt;/a&gt;&lt;/p&gt;
-                              &lt;p&gt;— Josh Herr (@number_three) &lt;a href=&quot;https://twitter.com/number_three/status/909653211715375104?ref_src=twsrc%5Etfw&quot;&gt;September 18, 2017&lt;/a&gt;&amp;lt;/blockquote&amp;gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-                              &lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
-
-                              &lt;blockquote class=&quot;twitter-tweet&quot;&gt;
-                                &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Here&apos;s Ryan Grove &amp;amp; Camila Pereira Braga from &lt;a href=&quot;https://twitter.com/UNL_Biochem?ref_src=twsrc%5Etfw&quot;&gt;@UNL_Biochem&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/NE_CRRI?ref_src=twsrc%5Etfw&quot;&gt;@NE_CRRI&lt;/a&gt; showing us how to observe root exudates! &lt;a href=&quot;https://twitter.com/hashtag/SundayWithAScientist?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#SundayWithAScientist&lt;/a&gt; &lt;a href=&quot;https://t.co/UtHflQaZPm&quot;&gt;pic.twitter.com/UtHflQaZPm&lt;/a&gt;&lt;/p&gt;
-                                &lt;p&gt;— Josh Herr (@number_three) &lt;a href=&quot;https://twitter.com/number_three/status/909652455125868544?ref_src=twsrc%5Etfw&quot;&gt;September 18, 2017&lt;/a&gt;&amp;lt;/blockquote&amp;gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-                                &lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
-
-                                &lt;blockquote class=&quot;twitter-tweet&quot;&gt;
-                                  &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Here&apos;s &lt;a href=&quot;https://twitter.com/UNKBiol106?ref_src=twsrc%5Etfw&quot;&gt;@UNKBiol106&lt;/a&gt; &amp;amp; Julie Shaffer from &lt;a href=&quot;https://twitter.com/UNKearney?ref_src=twsrc%5Etfw&quot;&gt;@UNKearney&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/NE_CRRI?ref_src=twsrc%5Etfw&quot;&gt;@NE_CRRI&lt;/a&gt; teaching us about plant pigments! &lt;a href=&quot;https://twitter.com/hashtag/SundayWithAScientist?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#SundayWithAScientist&lt;/a&gt; &lt;a href=&quot;https://t.co/0ZfXQpIAf5&quot;&gt;pic.twitter.com/0ZfXQpIAf5&lt;/a&gt;&lt;/p&gt;
-                                  &lt;p&gt;— Josh Herr (@number_three) &lt;a href=&quot;https://twitter.com/number_three/status/909651705368797185?ref_src=twsrc%5Etfw&quot;&gt;September 18, 2017&lt;/a&gt;&amp;lt;/blockquote&amp;gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-                                &lt;/blockquote&gt;
-                              &lt;/blockquote&gt;
-                            &lt;/blockquote&gt;
-                          &lt;/blockquote&gt;
-                        &lt;/blockquote&gt;
-                      &lt;/blockquote&gt;
-                    &lt;/blockquote&gt;
-                  &lt;/blockquote&gt;
-                &lt;/blockquote&gt;
-              &lt;/blockquote&gt;
-            &lt;/blockquote&gt;
-          &lt;/blockquote&gt;
-        &lt;/blockquote&gt;
-      &lt;/blockquote&gt;
-    &lt;/blockquote&gt;
-  &lt;/blockquote&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;We’re excited to wish PhD student Ashley Stengel a sincere congratulations for her National Science Foundation Graduate Fellowship Awardd Honorable Mention. She’s been &lt;a href=&quot;https://newsroom.unl.edu/announce/bigdata/6121/36965&quot;&gt;highlighted by the university for her efforts&lt;/a&gt;. We’re a little bummed out her fellowship was not funded, but going through the grant writing process was a great one. Here’s to the glass being half-full!&lt;/p&gt;
 </content>
   </entry>
   
