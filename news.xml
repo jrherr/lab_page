@@ -4,7 +4,7 @@
   <title>Herr Lab News</title>
   <link href="http://herrlab.com"/>
   <link type="application/atom+xml" rel="self" href="http://herrlab.com/news.xml"/>
-  <updated>2021-07-15T18:29:35-05:00</updated>
+  <updated>2021-07-19T15:17:29-05:00</updated>
   <id>http://herrlab.com</id>
   <author>
     <name>Josh Herr</name>
@@ -43,6 +43,22 @@
   </entry>
   
   <entry>
+    <id>http://herrlab.com/2020/04/21/Thais_defense</id>
+    <link type="text/html" rel="alternate" href="http://herrlab.com/2020/04/21/Thais_defense/"/>
+    <title>Thais defends her PhD! Congratulations Thais!</title>
+    <published>2020-04-21T00:00:00-05:00</published>
+    <updated>2020-04-21T00:00:00-05:00</updated>
+    <author>
+      <name>Josh Herr</name>
+      <uri>/2020/04/21/Thais_defense/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/static/img/news/thais_dis_defense.jpg&quot; alt=&quot;thais_defense&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;were-absolutely-thrillled-to-announce-that-thais-successfully-defended-her-dissertation-today-congratulations-thais-her-work-addressed-the-transcriptomics-of-the-infection-of-four-ddifferent-maize-cultivars-under-infection-from-two-pathogenic-bacteria-affecting-nebraska-corn-growers-and-those-around-the-world---clavibacter-nebraskensis-and-xanthomonas-vasicola-thaiss-defense-wasnt-quite-the-way-we-envisioned-it-with-the-global-pandemic---but-were-glad-nothing-was-able-to-stop-her-thais-was-one-of-the-first-lab-members-and-well-be-very-sad-to-see-her-go---she-will-be-a-post-doctoral-researcher-at-the-university-of-florida-tropical-research-plant-diagnostic-clinic&quot;&gt;We’re absolutely thrillled to announce that Thais successfully defended her dissertation today! Congratulations Thais! Her work addressed the transcriptomics of the infection of four ddifferent maize cultivars under infection from two pathogenic bacteria affecting Nebraska corn growers (and those around the world) - Clavibacter nebraskensis and Xanthomonas vasicola. Thais’s defense wasn’t quite the way we envisioned it with the global pandemic - but we’re glad nothing was able to stop her! Thais was one of the first lab members and we’ll be very sad to see her go - she will be a post-doctoral researcher at the &lt;a href=&quot;https://trec.ifas.ufl.edu/plantdiagnosticclinic/&quot;&gt;University of Florida Tropical Research Plant Diagnostic Clinic&lt;/a&gt;.”&lt;/h2&gt;
+</content>
+  </entry>
+  
+  <entry>
     <id>http://herrlab.com/2019/10/20/Rachel_poster</id>
     <link type="text/html" rel="alternate" href="http://herrlab.com/2019/10/20/Rachel_poster/"/>
     <title>Rachel Presents at the PSI Research Symposium</title>
@@ -70,7 +86,7 @@
     </author>
     <content type="html">&lt;p&gt;&lt;img src=&quot;/static/img/news/field_finish.jpg&quot; alt=&quot;field_finish&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The Herr Lab group, along with the [Rhae Drijber Lab] in &lt;a href=&quot;https://agronomy.unl.edu/&quot;&gt;UNL’s Agronomy &amp;amp; Horticulure Department&lt;/a&gt;, just wrapped up a reallly large field sampling to inspect the role of agricultural microbiomes in plant health and productivity. We’re super exhausted, but we also had a lot of fun! Incredible efforts by everyone!&lt;/p&gt;
+&lt;p&gt;The Herr Lab group, along with the &lt;a href=&quot;https://agronomy.unl.edu/drijber&quot;&gt;Rhae Drijber Lab&lt;/a&gt; in &lt;a href=&quot;https://agronomy.unl.edu/&quot;&gt;UNL’s Agronomy &amp;amp; Horticulure Department&lt;/a&gt;, just wrapped up a reallly large field sampling to inspect the role of agricultural microbiomes in plant health and productivity. We’re super exhausted, but we also had a lot of fun! Incredible efforts by everyone!&lt;/p&gt;
 </content>
   </entry>
   
