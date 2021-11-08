@@ -4,13 +4,35 @@
   <title>Herr Lab News</title>
   <link href="http://herrlab.com"/>
   <link type="application/atom+xml" rel="self" href="http://herrlab.com/news.xml"/>
-  <updated>2021-07-19T17:44:13-05:00</updated>
+  <updated>2021-11-08T14:51:24-06:00</updated>
   <id>http://herrlab.com</id>
   <author>
     <name>Josh Herr</name>
     <!-- <email>you@example.com</email> -->
   </author>
 
+  
+  <entry>
+    <id>http://herrlab.com/2021/11/08/Rachel_pubs</id>
+    <link type="text/html" rel="alternate" href="http://herrlab.com/2021/11/08/Rachel_pubs/"/>
+    <title>Rachel has a few new papers published!</title>
+    <published>2021-11-08T00:00:00-06:00</published>
+    <updated>2021-11-08T00:00:00-06:00</updated>
+    <author>
+      <name>Josh Herr</name>
+      <uri>/2021/11/08/Rachel_pubs/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/static/img/news/Ent_Arm.jpg&quot; alt=&quot;rachel_new_papers&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While we’re not done documenting Rachel Koch’s work in the laboratory just yet, she and I have a couple of publications focused on the genus &lt;em&gt;Armillaria&lt;/em&gt; that are new (published over the past two months).&lt;/p&gt;
+
+&lt;p&gt;The first of her new publications, &lt;a href=&quot;https://journals.asm.org/doi/full/10.1128/mSystems.00544-21&quot;&gt;published in mSystems&lt;/a&gt;, is focused on the interactions of the mushrooms &lt;a href=&quot;https://en.wikipedia.org/wiki/Entoloma_abortivum&quot;&gt;&lt;em&gt;Entoloma abortivum&lt;/em&gt;&lt;/a&gt; and species of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Armillaria&quot;&gt;genus &lt;em&gt;Armillaria&lt;/em&gt;&lt;/a&gt;. This was a really fun project to work on! I had envisioned this study 20 years ago and it was really fulfilling to complete this with Rachel! You can find the paper &lt;a href=&quot;https://journals.asm.org/doi/pdf/10.1128/mSystems.00544-21&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;We used public data focused on the &lt;a href=&quot;https://www.frontiersin.org/articles/10.3389/fmicb.2021.733159/full&quot;&gt;genus &lt;em&gt;Armillaria&lt;/em&gt; for a paper on the global diversity of the genus&lt;/a&gt;. This is published in Frontiers of Microbiology under the Microbes and Virus Interactions with Plants sub-section. You can read that paper &lt;a href=&quot;https://www.frontiersin.org/articles/10.3389/fmicb.2021.733159/full&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;While it would have been amazing to have Rachel stick around the lab (things like finances and life happen!), she’s &lt;a href=&quot;https://today.uconn.edu/2021/08/cahnr-welcomes-14-new-faculty-members-for-fall-2021/&quot;&gt;recently taken a position at University of Connecticut&lt;/a&gt;! We have more work in the publication pipeline, so stay tuned for more publications from her work in the laboratory!&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://herrlab.com/2021/07/09/Rachel_CB</id>
@@ -24,7 +46,7 @@
     </author>
     <content type="html">&lt;p&gt;&lt;img src=&quot;/static/img/news/Koch_CB.jpg&quot; alt=&quot;rachel_current_biology&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;We’re really excited to announce that post-doc Rachel Koch’s paper on the biology of the really fascinating fungus Guyanagaster, is out in &lt;a href=&quot;https://www.sciencedirect.com/science/article/abs/pii/S0960982221008289&quot;&gt;Current Biology&lt;/a&gt; today! &lt;a href=&quot;/static/pdf/Koch_CB_2021.pdf&quot;&gt;This paper&lt;/a&gt; documents the first time that nitrogen fixation  has been documented in a fungal fruiting body through the associated internal bacteria. This was a paper that led out of her PhD thesis work, which she expanded here in the lab. It was a great way for her to transition from her PhD work to some of her work in her post-doc position in the lab. Congratulations Rachel!&lt;/p&gt;
+&lt;p&gt;We’re really excited to announce that post-doc Rachel Koch’s paper on the biology of the really fascinating fungus Guyanagaster, is out in &lt;a href=&quot;https://www.sciencedirect.com/science/article/abs/pii/S0960982221008289&quot;&gt;Current Biology&lt;/a&gt; today! &lt;a href=&quot;/static/pdf/Koch_CB_2021.pdf&quot;&gt;This paper&lt;/a&gt; documents the first time that nitrogen fixation has been documented in a fungal fruiting body through the associated internal bacteria. This was a paper that led out of her PhD thesis work, which she expanded here in the lab. It was a great way for her to transition from her PhD work to some of her work in her post-doc position in the lab. Congratulations Rachel!&lt;/p&gt;
 </content>
   </entry>
   
@@ -52,7 +74,7 @@
       <name>Josh Herr</name>
       <uri>/2020/04/21/Thais_defense/</uri>
     </author>
-    <content type="html">&lt;p&gt;We’re absolutely thrillled to announce that Thais successfully defended her dissertation today! Congratulations Thais! Her work addressed the transcriptomics of the infection of four ddifferent maize cultivars under infection from two pathogenic bacteria affecting Nebraska corn growers (and those around the world) - &lt;strong&gt;Clavibacter nebraskensis&lt;/strong&gt; and &lt;strong&gt;Xanthomonas vasicolas&lt;/strong&gt;. Thais’s defense wasn’t quite the way we envisioned it with the global pandemic - but we’re glad nothing was able to stop her! Thais was one of the first lab members and we’ll be very sad to see her go - she will be a post-doctoral researcher at the &lt;a href=&quot;https://trec.ifas.ufl.edu/plantdiagnosticclinic/&quot;&gt;University of Florida Tropical Research Plant Diagnostic Clinic&lt;/a&gt;.”&lt;/p&gt;
+    <content type="html">&lt;p&gt;We’re absolutely thrillled to announce that Thais successfully defended her dissertation today! Congratulations Thais! Her work addressed the transcriptomics of the infection of four ddifferent maize cultivars under infection from two pathogenic bacteria affecting Nebraska corn growers (and those around the world) - &lt;em&gt;Clavibacter nebraskensis&lt;/em&gt; and &lt;em&gt;Xanthomonas vasicolas&lt;/em&gt;. Thais’s defense wasn’t quite the way we envisioned it with the global pandemic - but we’re glad nothing was able to stop her! Thais was one of the first lab members and we’ll be very sad to see her go - she will be a post-doctoral researcher at the &lt;a href=&quot;https://trec.ifas.ufl.edu/plantdiagnosticclinic/&quot;&gt;University of Florida Tropical Research Plant Diagnostic Clinic&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2&gt;&lt;img src=&quot;/static/img/news/thais_dis_defense.jpg&quot; alt=&quot;thais_defense&quot; class=&quot;img-fluid&quot; /&gt;&lt;/h2&gt;
 </content>
