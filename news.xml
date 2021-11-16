@@ -4,13 +4,35 @@
   <title>Herr Lab News</title>
   <link href="http://herrlab.com"/>
   <link type="application/atom+xml" rel="self" href="http://herrlab.com/news.xml"/>
-  <updated>2021-11-08T14:51:24-06:00</updated>
+  <updated>2021-11-16T15:31:38-06:00</updated>
   <id>http://herrlab.com</id>
   <author>
     <name>Josh Herr</name>
     <!-- <email>you@example.com</email> -->
   </author>
 
+  
+  <entry>
+    <id>http://herrlab.com/2021/11/16/In_the_news</id>
+    <link type="text/html" rel="alternate" href="http://herrlab.com/2021/11/16/In_the_news/"/>
+    <title>We're in the news!</title>
+    <published>2021-11-16T00:00:00-06:00</published>
+    <updated>2021-11-16T00:00:00-06:00</updated>
+    <author>
+      <name>Josh Herr</name>
+      <uri>/2021/11/16/In_the_news/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/static/img/news/news.jpg&quot; alt=&quot;news_articles&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We certainly have a lot of laboratory projects funded from a few different agencies across a lot of different areas right now. From fungal-plant interactions, the diversity of viruses on human skin, bacteria associated with plants and mushrooms – there is a lot to keep track of!&lt;/p&gt;
+
+&lt;p&gt;One area that is not funded specifically, but has a lot of volunteer help recently, is our interest in surveying and documenting fungal diversity in the state of Nebraska. The great plains have just not been well documented (ever) and there are a lot of new findings to be made.&lt;/p&gt;
+
+&lt;p&gt;We’ve been fortunate to have been working with a team of citizen scientists - notably Jon Hees. Jon is a self-made mycologist. He works days as a forklift operator and on evenings and weekends he documents the fungal diversity in the local forests. He’s found some interesting fungi - some possibly new species that we are investigating. Jon also moderates a &lt;a href=&quot;https://www.facebook.com/groups/1627770247469539/&quot;&gt;Facebook group for Nebraska mushrooms&lt;/a&gt; where people can record their findings and documented locations for the survey.&lt;/p&gt;
+
+&lt;p&gt;The laboratory work with Jon has been highlighted in a couple of newspapers in the last week. On November 10th, there was an &lt;a href=&quot;https://omaha.com/news/state-and-regional/lincoln-forklift-operator-turned-mushroom-expert-finds-fungi-some-rare-on-days-off/article_482709be-3de3-11ec-82fd-1f7c169201b1.html&quot;&gt;article in the Omaha World Herald&lt;/a&gt;. On November 15th, an &lt;a href=&quot;https://journalstar.com/news/local/lincoln-forklift-operator-turned-mushroom-expert-finds-fungi-some-rare-on-days-off/article_f47ea087-a6c6-53d6-a761-f50f969d8bfd.html&quot;&gt;article was featured locally in the Lincoln Journal Star&lt;/a&gt;. It’s exciting to see interest in this work out in public!&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://herrlab.com/2021/11/08/Rachel_pubs</id>
