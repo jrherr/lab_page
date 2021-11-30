@@ -4,13 +4,33 @@
   <title>Herr Lab News</title>
   <link href="http://herrlab.com"/>
   <link type="application/atom+xml" rel="self" href="http://herrlab.com/news.xml"/>
-  <updated>2021-11-29T13:51:03-06:00</updated>
+  <updated>2021-11-29T22:08:02-06:00</updated>
   <id>http://herrlab.com</id>
   <author>
     <name>Josh Herr</name>
     <!-- <email>you@example.com</email> -->
   </author>
 
+  
+  <entry>
+    <id>http://herrlab.com/2021/11/29/Poplar_AOS</id>
+    <link type="text/html" rel="alternate" href="http://herrlab.com/2021/11/29/Poplar_AOS/"/>
+    <title>New paper on wound responses in Poplar!</title>
+    <published>2021-11-29T00:00:00-06:00</published>
+    <updated>2021-11-29T00:00:00-06:00</updated>
+    <author>
+      <name>Josh Herr</name>
+      <uri>/2021/11/29/Poplar_AOS/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/static/img/news/lei_paper.jpg&quot; alt=&quot;news_articles&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A portion of my dissertation work (this is Josh, by the way) was to characterize the role of microorganisms in modulating responses to biotic and abiotic stressed in Poplar (&lt;em&gt;Populus deltoides&lt;/em&gt; hybrid crossing in particular). In this context I attempted to characterize portions of the Jasmonic Acid (JA) pathway responsible for response to stresses.&lt;/p&gt;
+
+&lt;p&gt;I’m happy to report that we’ve published on the mechanisms of &lt;em&gt;AOS1&lt;/em&gt; gene expression and reported on the gene’s promoter. &lt;em&gt;AOS1&lt;/em&gt; is a member of the CYP74 gene family and one of the first “dedicated” steps in the JA pathway. This work wouldn’t have happened without great collaborators - led by &lt;a href=&quot;https://www.clemson.edu/science/departments/genetics-biochemistry/people/profiles/hliang&quot;&gt;Haiying Liang and her lab members at Clemson University&lt;/a&gt; and along with fellow Collaborators &lt;a href=&quot;https://thefrostlab.com/&quot;&gt;Chris Frost&lt;/a&gt; and &lt;a href=&quot;https://ecosystems.psu.edu/directory/jec16&quot;&gt;John Carlson&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can find the manuscript, entitled &lt;a href=&quot;https://www.journalbji.com/index.php/BJI/article/view/30151&quot;&gt;Poplar Allene Oxide Synthase 1 Gene Promoter Drives Rapid and Localized Expression by Wounding&lt;/a&gt; through the journal Biotechnology Journal International.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://herrlab.com/2021/11/16/In_the_news</id>
